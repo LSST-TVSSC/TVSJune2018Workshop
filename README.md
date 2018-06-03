@@ -10,7 +10,7 @@ This repo collects material for and from the June 2018 LSST Transient and Variab
 
 ## Communication :  
 
-Our preferred mean of communication is the slack channel #tvs-2018-june-meeting
+Our preferred mean of communication is the slack channel **#tvs-2018-june-meeting**
 
 
 ## Instruction to install and get started with MAF :
