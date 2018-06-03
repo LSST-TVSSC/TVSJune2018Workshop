@@ -4,18 +4,29 @@
 
 This repo collects material for and from the June 2018 LSST Transient and Variable Stars Collaboration workshop organized to jumpstart work on the LSST Cadence White Papers to be sumbitted by November 30th 2018.
 
-Invites speakers, please clone the repo and submit your slides through a pull request.
+*Invites speakers* please clone the repo and submit your slides through a pull request.
 
-Participants, please create a folder for your material.
+*All participants*, please create a folder for your material.
 
-## Instruction to download MAF are here
+## Communication :  
+
+Our preferred mean of communication is the slack channel #tvs-2018-june-meeting
 
 
-## Remote connection details are here
+## Instruction to install and get started with MAF :
+
+goo.gl/yWt7Zz
+
+
+## Remote connection :
+
+Remote participants please use this slack channel #tvs-2018-june-meeting on the LSSTC slack to ask questions during talks
+
+### Connection details are here
 
 Note: two different connections are set up: one for MWF and another one for TT
 
-## Monday Wednesday Friday
+### Monday Wednesday Friday
 
 https://bluejeans.com/485523198/3875?src=htmlEmail
 
@@ -35,7 +46,7 @@ Room System
 199.48.152.152 or bjn.vc
 
 
-## Tuesday and Thursday
+### Tuesday and Thursday
 https://bluejeans.com/457094386/3875?src=htmlEmail
 
 Phone Dial-in
