@@ -18,27 +18,36 @@ Note: two different connections are set up: one for MWF and another one for TT
 ## Monday Wednesday Friday
 
 https://bluejeans.com/485523198/3875?src=htmlEmail
+
 Phone Dial-in
+
 +1.408.740.7256 (United States)
+
 +1.888.240.2560 (US Toll Free)
+
 +1.408.317.9253 (Alternate number)
+
 (Global Numbers)
 
 Meeting ID: 485 523 198
 
-Room System
+Room System 
 199.48.152.152 or bjn.vc
 
 
 ## Tuesday and Thursday
 https://bluejeans.com/457094386/3875?src=htmlEmail
+
 Phone Dial-in
+
 +1.408.740.7256 (United States)
+
 +1.888.240.2560 (US Toll Free)
+
 +1.408.317.9253 (Alternate number)
+
 (Global Numbers)
 
 Meeting ID: 457 094 386
 
-Room System
-199.48.152.152 or bjn.vc
+Room System 199.48.152.152 or bjn.vc
