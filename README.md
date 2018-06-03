@@ -15,7 +15,7 @@ Our preferred mean of communication is the slack channel #tvs-2018-june-meeting
 
 ## Instruction to install and get started with MAF :
 
-goo.gl/yWt7Zz
+http://goo.gl/yWt7Zz
 
 
 ## Remote connection :
