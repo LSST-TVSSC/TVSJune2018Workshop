@@ -35,3 +35,26 @@ Additional information is available in the following presentations:
 • “LSST Plans for Cadence Optimization” (May 30, 2017): http://ls.st/ot2
 
 • “Special Programs” (Aug 15, 2017): http://ls.st/10o
+
+
+MAF
+
+• Installation : https://confluence.lsstcorp.org/display/SIM/Catalogs+and+MAF
+
+• Help : https://sims-maf.lsst.io/index.html, https://github.com/LSST-nonproject/sims_maf_contrib/ tree/master/tutorials
+
+• Github : https://github.com/lsst/sims_maf
+
+• Docker : https://hub.docker.com/r/oboberg/maf/
+
+• Results webpages : http://astro-lsst-01.astro.washington.edu:8081/, http://astro- lsst-01.astro.washington.edu:8080/
+
+OpSim
+
+• Installation : https://lsst-sims.github.io/sims_ocs/
+
+• Help : https://lsst-sims.github.io/sims_ocs/
+
+• Github : https://github.com/lsst-sims/sims_ocs, https://github.com/lsst-ts/ts_scheduler
+
+• Docker : https://hub.docker.com/r/oboberg/opsim4_fbs_py3/, https://github.com/oboberg/ docker_readmes/blob/master/opsim4_docker/README.md
