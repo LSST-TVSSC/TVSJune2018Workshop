@@ -6,11 +6,11 @@ This repo collects material for and from the June 2018 LSST Transient and Variab
 
 *Invites speakers* please clone the repo and submit your slides through a pull request.
 
-*All participants*, please create a folder for each splinter session to upload your material.
+*All participants* please create a folder for each splinter session to upload your material.
 
 ## Communication :  
 
-Our preferred mean of communication is the slack channel #tvs-2018-june-meeting
+Our preferred mean of communication is the slack channel **#tvs-2018-june-meeting**
 
 
 ## Instruction to install and get started with MAF :
