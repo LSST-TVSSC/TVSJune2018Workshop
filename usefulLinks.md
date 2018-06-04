@@ -58,3 +58,5 @@ OpSim
 • Github : https://github.com/lsst-sims/sims_ocs, https://github.com/lsst-ts/ts_scheduler
 
 • Docker : https://hub.docker.com/r/oboberg/opsim4_fbs_py3/, https://github.com/oboberg/ docker_readmes/blob/master/opsim4_docker/README.md
+
+New Opsims: http://astro-lsst-01.astro.washington.edu:8081/
