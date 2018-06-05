@@ -12,12 +12,6 @@ imputeTS
 
 tseries
 
-imputeTS
-
-lomb
-
-RobPer
-
 waveslim
 
 wavethresh
